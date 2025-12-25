@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 I'm Mohammad Ali!
 
-<!--
-**MohammadAli440/MohammadAli440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Full Stack Developer** and **Tech Enthusiast** 🚀  
+I love building modern web apps and working with scalable architectures.
 
-Here are some ideas to get you started:
+- 🌐 Working with MERN & Next.js
+- ⚙️ Backend with Node.js & NestJS-style architecture
+- 💡 Interested in startups & SaaS products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✍️ Writing blogs at
+👉 [https://yourwebsite.com](https://mohammadali-eth.vercel.app/)
+
+### 🌍 Portfolio
+👉 [https://your-portfolio-link.com](https://mohammadali-eth.vercel.app/)
+
+---
+
+## 📊 GitHub Stats 📈
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammadAli440&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAli440&layout=compact&theme=dark)
