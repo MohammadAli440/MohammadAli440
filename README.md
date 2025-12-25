@@ -7,7 +7,7 @@ I love building modern web apps and working with scalable architectures.
 - ⚙️ Backend with Node.js & NestJS-style architecture
 - 💡 Interested in startups & SaaS products
 
-### ✍️ Writing blogs at
+### ✍️ See Who I am at
 👉 [mohammadali.about.eth](https://mohammadali-eth.vercel.app/)
 
 ### 🌍 Portfolio
