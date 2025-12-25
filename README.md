@@ -8,7 +8,7 @@ I love building modern web apps and working with scalable architectures.
 - 💡 Interested in startups & SaaS products
 
 ### 🤔 See Who I am at
-👉 [mohammadali.about.eth](https://mohammadali-eth.vercel.app/)
+👉 [mohammadali.about.eth](https://mohammadali-eth.vercel.app/about)
 
 ### 🌍 Portfolio
 👉 [mohammadali.eth](https://mohammadali-eth.vercel.app/)
