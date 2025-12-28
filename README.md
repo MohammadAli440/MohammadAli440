@@ -26,9 +26,6 @@ I'm a passionate Full Stack Developer and Tech Enthusiast 🚀  <br>I love build
 ![](https://nirzak-streak-stats.vercel.app/?user=mohammadali-eth&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadali-eth&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohammadali-eth&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=mohammadali-eth&icon=0&color=1)](https://visitcount.itsvg.in)
 
