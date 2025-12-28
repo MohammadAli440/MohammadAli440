@@ -1,5 +1,19 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building modern, responsive web applications using the MERN stack, along with UI/UX-focused projects, freelance client websites, and full-stack platforms.<br><br>👯 I’m looking to collaborate on<br>MERN stack projects, startup ideas, SaaS products, real-time web apps, and hackathon-level problem-solving projects.<br><br>🤝 I’m looking for help with<br>Advanced system design, scalable backend architecture, and performance optimization in full-stack applications.<br><br>🌱 I’m currently learning<br>Next.js deep concepts, TypeScript best practices, backend scalability, and real-world product development.<br><br>💬 Ask me about<br>React.js, Next.js, Node.js, MongoDB, UI/UX design, freelancing, Shopify, WordPress, and building real-world projects.<br><br>⚡ Fun fact<br>I started as a designer, became a developer, and now build products where design meets functionality 🚀
+<br><br>
+<h1 align="center">
+  Hi 👋, I'm Mohammad Ali
+</h1>
+<br>
+
+
+I'm a passionate Full Stack Developer and Tech Enthusiast 🚀  <br>I love building modern web apps and working with scalable architectures.<br><br>- 🌐 Working with MERN & Next.js<br>- ⚙️ Backend with Node.js & Nest.JS-style architecture<br>- 💡 Interested in startups & SaaS products
+
+### ✍️ Resume
+👉 https://drive.google.com/file/d/1Zc1OKgVPQoX4De8uDyW-4kuGZ-s35gmo/view?usp=sharing
+
+### 🌍 Portfolio
+👉 https://mohammadali-eth.vercel.app
+
+<br>
 
 
 ## 🌐 Socials:
