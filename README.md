@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="Mohammad Ali Banner" width="100%">
 </p>
 
-<h1 align="center">
+<!-- <h1 align="center">
 Hi 👋, I'm Mohammad Ali
 </h1>
 
@@ -13,7 +13,7 @@ Full Stack Developer • AI • SaaS • ERP • Modern Web Applications
 <p align="center">
 Building scalable, production-ready software with clean architecture,
 modern technologies, and exceptional user experiences.
-</p>
+</p> -->
 
 <p align="center">
 
